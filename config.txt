@@ -1,6 +1,6 @@
 owner=348554915876175902
-prefix=!
-game=..
+prefix=w
+game=Listening To XXXTENTACION
 stayinchannel=true
 songinstatus=true
-token=
+token=NTYzMzEwMTY1MjUyODk4ODI3.XKXdtA.4AILxvND0RpjZmlSGnQeUsTffXQ
