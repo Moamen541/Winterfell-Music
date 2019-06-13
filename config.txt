@@ -3,4 +3,4 @@ prefix=!!
 game=Playing LOL with Sölo | !!help
 stayinchannel=true
 songinstatus=true
-token=NTg4NTA5MDI3MzgyODUzNjQz.XQIS8A.7UH_zpq_1UQGBhbVmJSSzcJ5Y30
+token=NTg4NjY1MjM4MTk5NzMwMTc2.XQIbdQ.IAqm6g370RFQNdUdxHpy7XHNK4Q
