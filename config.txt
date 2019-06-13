@@ -1,6 +1,6 @@
 owner=348554915876175902
-prefix=w
-game=Listening To XXXTENTACION
+prefix=!!
+game=Playing LOL with Sölo | !!help
 stayinchannel=true
 songinstatus=true
-token=NTYzMzEwMTY1MjUyODk4ODI3.XKXdtA.4AILxvND0RpjZmlSGnQeUsTffXQ
+token=NTg4NTA5MDI3MzgyODUzNjQz.XQIS8A.7UH_zpq_1UQGBhbVmJSSzcJ5Y30
